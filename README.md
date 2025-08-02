@@ -134,13 +134,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tareqmonour&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqmonour&layout=compact&theme=tokyonight" width="42%" />
-</p>
-
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tareqmonour&show_icons=true&theme=tokyonight&cache_seconds=60" width="48%" alt="Tareq's GitHub Stats" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqmonour&layout=compact&theme=tokyonight&cache_seconds=60" width="42%" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareqmonour&theme=tokyonight&cache_seconds=60" width="90%" alt="GitHub Streak" /> </p>
 ---
 
 ## 👤 Connect With Me
