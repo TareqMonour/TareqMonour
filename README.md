@@ -7,81 +7,114 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
-- 🎓 CSE Student at **United International University (UIU)**
-- 📚 Majoring in **Data Science**
-- 🧬 Final Year Research on **RAG for Biological Question Reasoning**
-- 💻 Experienced with **AI**, **ML**, **Web Dev**, **IoT**, **Cybersecurity**
-- 🤖 Interested in **Bioinformatics**, **NLP**, **LLMs**
-- ✍️ Scientific writer using **Overleaf (LaTeX)**
+<table align="center">
+<tr><td align="left">
+
+- 🎓 CSE Student at <strong>United International University (UIU)</strong><br>
+- 📚 Majoring in <strong>Data Science</strong><br>
+- 🧬 Final Year Research on <strong>RAG for Biological Question Reasoning</strong><br>
+- 💻 Experienced with <strong>AI</strong>, <strong>ML</strong>, <strong>Web Dev</strong>, <strong>IoT</strong>, <strong>Cybersecurity</strong><br>
+- 🤖 Interested in <strong>Bioinformatics</strong>, <strong>NLP</strong>, <strong>LLMs</strong><br>
+- ✍️ Scientific writer using <strong>Overleaf (LaTeX)</strong>
+
+</td></tr>
+</table>
 
 ---
 
 ## 💼 Academic & Lab Projects
 
-| 📄 Project Name | 👨‍💻 Domain & Tech |
-|--------------|---------------|
-| **Mess Management** | C - SPL Lab |
-| **Bachelor Sphere** | Java, JavaFX, SceneBuilder |
-| **TastyPizza**+**Bachelor Sphere** | PHP, MySQL, HTML, CSS |
-| **Pet Adoption System** | PHP, MySQL, HTML, CSS |
-| **NestEase (Home Solution Platform)** | React, NestJS, MySQL, TypeORM |
-| **NIDS** | Python, ML models |
-| **FYDP** | NLP, Bioinformatics, RAG, LLMs |
+<table align="center">
+<thead>
+<tr><th>📄 Project Name</th><th>👨‍💻 Domain & Tech</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Mess Management</strong></td><td>C - SPL Lab</td></tr>
+<tr><td><strong>Bachelor Sphere</strong></td><td>Java, JavaFX, SceneBuilder</td></tr>
+<tr><td><strong>TastyPizza</strong> + <strong>Bachelor Sphere</strong></td><td>PHP, MySQL, HTML, CSS</td></tr>
+<tr><td><strong>Pet Adoption System</strong></td><td>PHP, MySQL, HTML, CSS</td></tr>
+<tr><td><strong>NestEase (Home Solution Platform)</strong></td><td>React, NestJS, MySQL, TypeORM</td></tr>
+<tr><td><strong>NIDS</strong></td><td>Python, ML models</td></tr>
+<tr><td><strong>FYDP</strong></td><td>NLP, Bioinformatics, RAG, LLMs</td></tr>
+</tbody>
+</table>
 
 ---
 
 ## 🔬 Hardware & Embedded Projects
 
-| 🚀 Project | 🛠️ Platform |
-|--------|----------|
-| **AeroSense Explorer** | Arduino Uno, Sensors |
-| **Pi-Watch** | Raspberry Pi, Face Recognition, Automation |
+<table align="center">
+<thead>
+<tr><th>🚀 Project</th><th>🛠️ Platform</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>AeroSense Explorer</strong></td><td>Arduino Uno, Sensors</td></tr>
+<tr><td><strong>Pi-Watch</strong></td><td>Raspberry Pi, Face Recognition, Automation</td></tr>
+</tbody>
+</table>
 
 ---
 
 ## 🔥 IoT & Embedded Systems
 
-- 🛠️ Arduino, ESP32/ESP8266, Raspberry Pi Pico
-- 🧰 Embedded C, Sensor & Actuator Interfacing
-- 📶 WiFi, Bluetooth Communication
+<table align="center">
+<tr><td align="left">
+
+- 🛠️ Arduino, ESP32/ESP8266, Raspberry Pi Pico<br>
+- 🧰 Embedded C, Sensor & Actuator Interfacing<br>
+- 📶 WiFi, Bluetooth Communication<br>
 - ✨ Automation & Smart Systems Design
+
+</td></tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+### 👨‍💻 Languages:
+<p align="center">
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript" />
+</p>
 
-### Web Dev:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+### 🌐 Web Dev:
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs" />
+</p>
 
-### AI/ML:
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+### 🧠 AI/ML:
+<p align="center">
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
+<img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter" />
+</p>
 
-### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+### 💾 Databases:
+<p align="center">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb" />
+</p>
 
-### Tools:
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+### 🧰 Tools:
+<p align="center">
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman" />
+</p>
+
+</div>
 
 ---
 
